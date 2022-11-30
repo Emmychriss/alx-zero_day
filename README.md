@@ -1,1 +1,2 @@
-My first readme
+
+Readme file for alx-zero_day project
